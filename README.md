@@ -1,2 +1,3 @@
-# algoritmapemrograman
-Buat Pembelajaran IF
+belajarpemrogramanituasyik
+Teknik Informatika
+Kevin Simorangkir
